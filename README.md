@@ -2,5 +2,5 @@
 Externship Program - Applied Data Science
 
 
-Training curriculum - https://smartinternz.com/externship-curriculum/213 
+Training curriculum - https://smartinternz.com/externship-curriculum/213 <br>
 Project - https://github.com/akash-r34/Smoke-detection-using-Machine-learning
