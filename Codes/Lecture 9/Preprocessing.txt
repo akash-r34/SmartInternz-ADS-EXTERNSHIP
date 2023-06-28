@@ -1,0 +1,38 @@
+Data Preprocessing:
+Tranform raw data into useful and efficient format
+
+Major Task in data Preprocessing
+1. data Integration
+2. Data Cleaning
+3. Data Transformation
+
+Data Cleaning
+1. Missing values:
+	- Delete the row/cell
+	-Imputation
+2. handling Noise	
+3. handling outliers
+4. Dealing with Duplicate
+
+Data Transformation Techniques:
+Two types of Categorical Features:
+- Nominal
+- Ordinal
+
+Techniques to Handle Categorical Data
+	1. Map()
+	2 Label Encoding:
+	We have to import LabelEncoderClass from scikit learn library
+	3 One Hot Encoding
+ 
+Dealing with imbalance Data
+1 Undersampling
+2 Oversampling 
+	-SMOTE
+
+
+
+
+
+
+	
